@@ -33,7 +33,7 @@ const Calculator = () => {
   };
 
   return (
-    <div className="bg-gray-800 w-full h-screen flex justify-center items-center font-signature">
+    <div className="bg-custom-radial h-screen w-full h-screen flex justify-center items-center font-signature">
       <div className="relative flex flex-col justify-center items-center gap-4 bg-gray-700 text-slate-300 p-6 sm:p-8 rounded-lg max-w-xs md:max-w-md lg:max-w-lg">
         <div className="justify-center items-center flex relative">
           <input

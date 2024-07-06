@@ -11,6 +11,9 @@ module.exports = {
         'dark-gray': '#374151',
         'dark-white': '#f3f4f6',
       },
+      backgroundImage: {
+        'custom-radial': 'radial-gradient(circle, #5c0067 0%, #00d4ff 100%)',
+      },
       borderRadius: {
         'custom-radius': '0.375rem',
       },
